@@ -1,7 +1,7 @@
 # BitBankwebsite
 Javscript based features website
 
-https://u-kaushik.github.io/BitBankwebsite/
+https://bitbankweb.netlify.app/
 
 Features built using vanilla Javascript
 1. Nav menu mobile toggle
