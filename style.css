@@ -14,7 +14,7 @@
 
 * {
   margin: 0;
-  padding: 0; 
+  padding: 0;
 }
 
 html {
@@ -395,7 +395,7 @@ h4 {
   transition: transform 1s;
 }
 
-.slide > img {  
+.slide > img {
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -450,7 +450,7 @@ h4 {
   margin: 0;
 }
 
-.dots__dot--active {  
+.dots__dot--active {
   background-color: #888;
   opacity: 1;
 }
@@ -820,6 +820,12 @@ h4 {
     width: 90%;
     margin: 0 auto;
     padding: 3em 0;
+  }
+
+  .slide--1,
+  .slide--2,
+  .slide--3 {
+    transform: none !important;
   }
 
   .slider__btn {
