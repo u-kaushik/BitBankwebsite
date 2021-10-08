@@ -1,5 +1,7 @@
 # BitBankwebsite
-Javscript based features website
+A responsive Javscript based features website.
+
+![BitBank-site](https://user-images.githubusercontent.com/83171355/136554173-c687a112-54ac-47bf-8851-b6581917239c.png)
 
 https://bitbankweb.netlify.app/
 
